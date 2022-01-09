@@ -1,0 +1,3 @@
+# Abstract
+
+Decision Tree is an algorithm, which belongs to the group of Supervised Machine Learning algorithms. Decision Trees are inverted trees with a root node, internal nodes and leaf nodes. Mainly two types of Decision Trees are used widely - CART and ID3. But, the root nodes are decided depending on an impurity index. CART uses Gini Index and ID3 uses Entropy as impurity indices and also to decide the dividing attribute at each node. In this work, both CART and ID3 are applied on the Titanic Dataset, without specfying any other parameters. Then a suitable tree is found by applying Grid Search method and the resulting tree is also found to be a CART as it showed the highest accuracy on the testing set.
