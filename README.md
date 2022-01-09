@@ -29,5 +29,4 @@ The RMS Titanic started the transatlantic journey from Southampton, UK to New Yo
 2. [Data_Cleaning_and_Feature_Engineering](https://github.com/Adi-ds/Titanic_Kaggle/blob/main/Data_Cleaning_and_Feature_Engineering.ipynb)
 3. [Titanic_EDA_Visualizations](https://github.com/Adi-ds/Titanic_Kaggle/blob/main/Titanic_EDA_Visualizations.ipynb)
 4. [Titanic_Decision_Tree](https://github.com/Adi-ds/Titanic_Kaggle/tree/main/Titanic_Decision_Tree)
-5. [Support Vector Machine](https://github.com/Adi-ds/Titanic_Kaggle/tree/main/Support%20Vector%20Machine)
-6. [Conclusion](https://github.com/Adi-ds/Titanic_Kaggle/blob/main/Conclusion.md)
+5. [Conclusion](https://github.com/Adi-ds/Titanic_Kaggle/blob/main/Conclusion.md)
